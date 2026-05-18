@@ -859,13 +859,6 @@ const HomePage = () => {
             </p>
 
             <div className="flex flex-wrap gap-4 mb-12">
-              <PrimaryButton  to="https://docs.google.com/forms/d/1L4saCJxfIi_jha0lBanIjAl-o2sEXvPs6d0J1TyW9DM/viewform" >
-                Join the Community
-                <ArrowRight
-                  size={16}
-                  className="group-hover:translate-x-0.5 transition-transform"
-                />
-              </PrimaryButton>
               <SecondaryButton to="">View Open Issues</SecondaryButton>
             </div>
 
